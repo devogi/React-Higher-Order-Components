@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
-import { BrowserRouter, Routes, Route } from "react-router-dom"; //to connect your app to the browser's URL
+import { BrowserRouter, Routes, Route } from "react-router-dom"; 
 import About from "./routes/About";
 import Contacts from "./routes/Contacts";
 import layout from "./Layout";
